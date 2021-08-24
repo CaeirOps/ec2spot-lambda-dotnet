@@ -1,0 +1,13 @@
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/bin/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.deps.json
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/bin/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.runtimeconfig.json
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/bin/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.runtimeconfig.dev.json
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/bin/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.dll
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/bin/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.pdb
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/obj/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.csproj.AssemblyReference.cache
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/obj/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/obj/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.AssemblyInfoInputs.cache
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/obj/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.AssemblyInfo.cs
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/obj/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.csproj.CoreCompileInputs.cache
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/obj/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.dll
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/obj/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.pdb
+/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/obj/Release/netcoreapp2.1/rhel.7.2-x64/ec2spot.genruntimeconfig.cache

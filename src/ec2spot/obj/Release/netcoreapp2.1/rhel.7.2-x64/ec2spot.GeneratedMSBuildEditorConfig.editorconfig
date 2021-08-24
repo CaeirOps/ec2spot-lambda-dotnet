@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ec2spot
+build_property.ProjectDir = /home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/

@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/ec2spot.csproj": {}
+  },
+  "projects": {
+    "/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/ec2spot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/ec2spot.csproj",
+        "projectName": "ec2spot",
+        "projectPath": "/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/ec2spot.csproj",
+        "packagesPath": "/home/kaeir0x/.nuget/packages/",
+        "outputPath": "/home/kaeir0x/Documents/labs/lambda-donet/ec2spot-lambda-dotnet/src/ec2spot/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kaeir0x/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.3.103.32, )"
+            },
+            "AWSSDK.EC2": {
+              "target": "Package",
+              "version": "[3.3.127.1, )"
+            },
+            "AWSXRayRecorder.Core": {
+              "target": "Package",
+              "version": "[2.6.0, )"
+            },
+            "AWSXRayRecorder.Handlers.AwsSdk": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.Json": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/home/kaeir0x/.dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "rhel.7.2-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
